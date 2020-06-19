@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/virginiasalapantan-az400/Virginia-Demo-Project/_apis/build/status/viransa04.ContosoAir?branchName=master)](https://dev.azure.com/virginiasalapantan-az400/Virginia-Demo-Project/_build/latest?definitionId=10&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
